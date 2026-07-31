@@ -1,0 +1,5 @@
+streamlit
+pillow
+rembg
+onnxruntime
+numpy<2.4
